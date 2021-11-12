@@ -124,7 +124,10 @@ body {
 }
 
 /* OUR TEAM */
-
+.our-team {
+  width: 1600px;
+  background: #f5f4fa;
+}
 .names {
   font-weight: 500;
   font-size: 16px;
